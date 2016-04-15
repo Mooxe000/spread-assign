@@ -1,0 +1,22 @@
+{
+  "name": "spread-assign",
+  "version": "0.0.0",
+  "description": "spread-assign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spread",
+    "assign"
+  ],
+  "author": "FooTearth <footearth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.10.0"
+  },
+  "devDependencies": {
+    "ddeyes": "^0.0.1",
+    "shelljs": "^0.6.0"
+  }
+}
